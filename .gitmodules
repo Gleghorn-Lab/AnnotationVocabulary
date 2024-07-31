@@ -1,0 +1,3 @@
+[submodule "udev_public"]
+	path = udev_public
+	url = https://github.com/Gleghorn-Lab/udev_public.git
