@@ -1,6 +1,6 @@
 # AnnotationVocabulary
 
-This is the official repository of the paper _Annotation Vocabulary (Might Be) All You Need_. The data and models were developed using a proprietary internal developers package, so it will take some time refactor for release. Please be patient with us! We plan on releasing everything except for the data and weights for GSM - which is getting redone anyways for peer review submission. 
+This is the official repository of the paper _Annotation Vocabulary (Might Be) All You Need_. The data and models were developed using a proprietary internal developers package, so it will take some time to refactor for release. Please be patient with us! We plan on releasing everything except for the data and weights for GSM - which is getting redone anyways for peer review submission. 
 
 
 If you use any of our models, data, or code, please cite the following paper
