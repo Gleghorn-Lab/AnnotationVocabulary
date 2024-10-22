@@ -9,8 +9,7 @@ The data and models were developed using a proprietary internal developers packa
 ## Downstream data
 [Huggingface](https://huggingface.co/collections/GleghornLab/protein-fine-tuning-667dec58b0f62e5e07586bb2)
 
-https://github.com/user-attachments/assets/6f7319ec-5d2f-4b10-b879-99b3db59d3fb
-
+https://github.com/user-attachments/assets/482f8259-c7a8-481f-b871-dc90bfd8c52e
 
 If you use any of our models, data, or code, please cite the following paper (and be aware of the GPL-3.0 license)
 ```
