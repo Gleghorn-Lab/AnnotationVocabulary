@@ -6,7 +6,7 @@ The data and models were developed using a proprietary internal developers packa
 
 ## Models, training data
 [Huggingface](https://huggingface.co/collections/GleghornLab/annotation-vocabulary-667c0e18efe26480c3ebe5f7)
-## Downstream data
+## Downstream protein tasks
 [Huggingface](https://huggingface.co/collections/GleghornLab/protein-fine-tuning-667dec58b0f62e5e07586bb2)
 
 https://github.com/user-attachments/assets/482f8259-c7a8-481f-b871-dc90bfd8c52e
